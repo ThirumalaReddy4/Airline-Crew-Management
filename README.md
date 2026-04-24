@@ -102,36 +102,7 @@ typedef struct Crew {
 
 ====================================
 
-📌 Sample Output :  
 
-Enter Choice: 1
-
-Enter Crew ID: 101
-Enter Crew Name: Captain Smith
-✅ Crew Added Successfully!
-
-Enter Choice: 1
-
-Enter Crew ID: 102
-Enter Crew Name: Co-Pilot Jones
-✅ Crew Added Successfully!
-
-Enter Choice: 6
-
-Enter Source Crew ID: 101
-Enter Destination Crew ID: 102
-✅ Assignment Added!
-
-Enter Choice: 5
-
---- Crew Assignment Graph ---
-Crew 102 (Co-Pilot Jones) ➝
-Crew 101 (Captain Smith) ➝ 102
-
-Enter Choice: 4
-
-Enter Crew ID to Search: 101
-🔍 Found → ID: 101 | Name: Captain Smith
 
 Demo Video Link  :
 
